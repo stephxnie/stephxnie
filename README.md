@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 About Me
-I'm Joanne, an IT student based in Malaysia, passionate about building practical systems ₍^. .^₎⟆
+I'm Stephanie, an IT student based in Malaysia, passionate about building practical systems ₍^. .^₎⟆
 I love turning ideas in my mind into real and functional systems ⋆˚࿔
 
 Currently Working On

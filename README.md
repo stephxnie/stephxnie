@@ -1,23 +1,4 @@
-## Hi there 👋
 
-About Me
-I'm Stephanie, an IT student based in Malaysia, passionate about building practical systems ₍^. .^₎⟆
-I love turning ideas in my mind into real and functional systems ⋆˚࿔
-
-Currently Working On
--A 3D Interactive Movie Globe Website
--Career Path Recommendation System
-
-Technology Stack & Tools
--Languages: Java, Python, JavaScript
--Frontend: HTML, CSS, React(learning...)
--Database: MySQL
--Data Visualization: PowerBI
-
-Fun Facts
-I love drawing ૮ ․ ․ ྀིა
-I can play guitar 🎧ྀི♪⋆.✮
-I really like geckos and hope to have one as a pet someday ◝(ᵔᗜᵔ)◜
 
 
 <!--
